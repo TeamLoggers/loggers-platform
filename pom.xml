@@ -41,7 +41,7 @@
         <apache-http-client.version>4.5.1</apache-http-client.version>
         <selenium.version>3.12.0</selenium.version>
         <glassfish.version>1.0</glassfish.version>
-        <jackson.version>2.10.3</jackson.version>
+        <jackson.version>2.12.1</jackson.version>
     </properties>
 
     <dependencies>
